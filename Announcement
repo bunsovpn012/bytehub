@@ -1,8 +1,9 @@
 {
-"Announce": "true",
-"Title": "Application Update",
-"Summary": "Announcement Umay",
-"Info": "Whats new?
-➡ NAKAKAUMAY AYAW GUMANA"
-	
-}
+	 "Announce": "true",
+	 "Title": "Announcement",
+	 "Summary": "Announcement Testing",
+	 "Info": "Whats new?
+	 ➡ Added Ewan
+	 ➡ basta ewan
+	 ➡ Ewan basta"
+	 }
